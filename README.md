@@ -1,1 +1,1 @@
-# detailed-modeling-of-interface-protocol-AMBA-APB-
+# Detailed Modeling of Interface Protocol (AMBA-APB)
